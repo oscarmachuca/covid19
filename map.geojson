@@ -1974,6 +1974,13 @@
             "TOTAL_PRUEBAS": null,
             "CASOS_POR_DIA": null,
             "TEST_POR_DIA": null
+         },
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -73.25695031799995,
+               -3.749935561999962
+            ]
          }
       },
       {
