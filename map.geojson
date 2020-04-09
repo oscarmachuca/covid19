@@ -456,7 +456,7 @@
          "type": "Feature",
          "properties": {
             "marker-color": "#ff0000",
-            "marker-size": "medium",
+            "marker-size": "small",
             "marker-symbol": "hospital",
             "NOMDEP": "CALLAO",
             "REGION": "CALLAO",
